@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Simple pagination sample.
+"""Task 1
 """
 import csv
 from typing import List, Tuple
