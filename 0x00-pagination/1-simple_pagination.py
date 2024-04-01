@@ -14,7 +14,7 @@ def index_range(page: int, page_size: int) -> Tuple[int, int]:
 
 
 class Server:
-    """Create a server class to implement pagination for a database containing popular baby names.
+    """Server class to implement pagination for a database containing popular baby names
     """
     DATA_FILE = "Popular_Baby_Names.csv"
 
